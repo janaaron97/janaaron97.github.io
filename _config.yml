@@ -1,0 +1,51 @@
+# Site settings
+title: Groundworks Initiatives
+description: Laying foundations for missional living, urban renewal and the transformation of cities
+cover: assets/images/cover.jpg
+logo: assets/images/logo.png
+favicon: assets/images/favicon.png
+baseurl: "/" 
+url: "groundworksonline.com" # the base hostname & protocol for your site
+paginate:	5 # The number of posts to show per page on your homepage
+
+#Additional Pages
+about: about
+contact: contact
+
+
+permalink: /:title
+
+ 
+# Google Analytics
+analytics_id: ""
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  parse_block_html: true
+
+plugins:
+  - jekyll-paginate
+
+
+# Settings for rake task
+safe: False
+lsi: False
+username: samanyougarg #github username
+repo: hanuman #github repository
+branch: master #branch
+relative_source: ../hanuman/ #source directory
+destination: ../hanuman-pages/ #destination directory
+production_url:  https://samanyougarg.com/
+source_url:  https://github.com/samanyougarg/hanuman #source repository url
+
+exclude:
+  - README.md
+  - Rakefile
+  - Gemfile
+  - Gemfile.lock
+  - changelog.md
+  - "*.Rmd"
+  - vendor
+  - .travis.yml

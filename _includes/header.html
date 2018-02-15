@@ -1,0 +1,35 @@
+<!-- Start Navbar -->
+  <header class="ampstart-headerbar fixed flex justify-start items-center top-0 left-0 right-0 pl2 pr4 ">
+    <div role="button" aria-label="open sidebar" on="tap:header-sidebar.toggle" tabindex="0" class="ampstart-navbar-trigger  pr2  ">☰
+    </div>
+    {% if site.logo %}
+    <center style="display: block; width: 100%; margin-left: auto; margin-right: auto;"><img style="width: 100px; padding: 5px;" src="/assets/images/logo.png" /></center>
+    {% endif %}
+  </header>
+
+
+<!-- Start Sidebar -->
+<amp-sidebar id="header-sidebar" class="ampstart-sidebar px3  " layout="nodisplay">
+  <div class="flex justify-start items-center ampstart-sidebar-header">
+    <div role="button" aria-label="close sidebar" on="tap:header-sidebar.toggle" tabindex="0" class="ampstart-navbar-trigger items-start">✕</div>
+  </div>
+  <nav class="ampstart-sidebar-nav ampstart-nav">
+    <ul class="list-reset m0 p0 ampstart-label">
+        {% for entry in site.data.navigation %}
+            {% if entry.url == current_page %}
+                {% assign current = ' class="current"' %}
+            {% else %}
+                {% assign current = null %}
+            {% endif %}
+      <li class="ampstart-nav-item ampstart-nav-dropdown relative " {{ current }}>
+          <li class="ampstart-faq-item"><a href="{{ site.url }}{{ site.baseurl }}{{ entry.url }}" class="text-decoration-none">{{ entry.title }}</a></li>
+      </li>
+      {% endfor %}
+    </ul>
+  </nav>
+  <ul class="ampstart-sidebar-faq list-reset m0">
+  {% if site.contact %}
+    <li class="ampstart-faq-item"><a href="{{ site.baseurl }}{{ site.contact }}" class="text-decoration-none">CONTACT</a></li>
+  {% endif %}
+  </ul>
+</amp-sidebar>
