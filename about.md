@@ -7,7 +7,9 @@ cover: about.jpg
 <h1 style="text-align: center;">About Us</h1>
 Groundworks is a 501c3 that helps Inspire, resource, and advance great Ideas. We support people in their process of personal growth, and create workspace for transformative initiatives to accelerate. 
 
-<h3 style="text-align: center;">Ken Janke</h3>
+
+<img src="/assets/images/ken.jpg" style="margin-top: 60px; margin-bottom: 20px; width: 200px; display: block; margin-left: auto; margin-right: auto;">
+<h3 style="text-align: center; margin-top: 10px;">Ken Janke</h3>
 Ken Janke is the founder of Groundworks. He works to position people, organizations, and businesses for their effective future, believing transformation is possible through collective ideas and collaborative action. He collaborates with mission-minded organizations and networks globally to create change in our world.
 
 
