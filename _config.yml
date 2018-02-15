@@ -3,7 +3,6 @@ title: Groundworks Initiatives
 description: Laying foundations for missional living, urban renewal and the transformation of cities
 cover: assets/images/cover.jpg
 logo: assets/images/logo.png
-favicon: assets/images/favicon.png
 baseurl: "/" 
 url: "/" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
