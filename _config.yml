@@ -10,11 +10,11 @@ paginate:	5 # The number of posts to show per page on your homepage
 #Additional Pages
 about: about
 contact: contact
-
+ 
 
 permalink: /:title
 
- 
+
 # Google Analytics
 analytics_id: ""
 
