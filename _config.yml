@@ -5,7 +5,7 @@ cover: assets/images/cover.jpg
 logo: assets/images/logo.png
 favicon: assets/images/favicon.png
 baseurl: "/" 
-url: "groundworksonline.com" # the base hostname & protocol for your site
+url: "/" # the base hostname & protocol for your site
 paginate:	5 # The number of posts to show per page on your homepage
 
 #Additional Pages
