@@ -25,11 +25,9 @@
           <li class="ampstart-faq-item"><a href="{{ site.url }}{{ site.baseurl }}{{ entry.url }}" class="text-decoration-none">{{ entry.title }}</a></li>
       </li>
       {% endfor %}
+       <li class="ampstart-nav-item ampstart-nav-dropdown relative " {{ current }}>
+          <li class="ampstart-faq-item"><a href="/contact" class="text-decoration-none">CONTACT</a></li>
+        </li>
     </ul>
   </nav>
-  <ul class="ampstart-sidebar-faq list-reset m0">
-  {% if site.contact %}
-    <li class="ampstart-faq-item"><a href="{{ site.baseurl }}{{ site.contact }}" class="text-decoration-none">CONTACT</a></li>
-  {% endif %}
-  </ul>
 </amp-sidebar>
