@@ -38,6 +38,10 @@ $font-sans: "Helvetica Neue", 'Open Sans', Arial, Helvetica, sans-serif;
   margin-bottom: $rs;
 }
 
+.post-title{
+  display: none !important;
+}
+
 main {
   display: block;
 }
