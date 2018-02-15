@@ -8,5 +8,5 @@ cover: contact.jpg
 <br />
 <center>
 	<strong>Email</strong>
-	<p style="margin-top: 0;">kennethjanke@groundworksonline.com</p>
+	<p style="margin-top: 0;">kennethjanke@gmail.com</p>
 </center>
