@@ -2,7 +2,7 @@
 @import 'syntax-highlighting';
 
 $grey-color:       #828282;
-$theme-color: #0B4D94; 
+$theme-color: #A12624;
 
 .icon {
 
@@ -40,6 +40,27 @@ $font-sans: "Helvetica Neue", 'Open Sans', Arial, Helvetica, sans-serif;
 
 .post-title{
   display: none !important;
+}
+
+header.ampstart-headerbar.fixed{
+  background: #fff !important;
+  padding: 5px;
+  div[role="button"]{
+    color: #A12624;
+    position: absolute;
+    left:20px;
+  }
+}
+
+@media screen and (max-width:584px){
+  .ampstart-fullpage-hero-heading.mb0.hanuman{
+    line-height: 50px;
+  }
+}
+
+#header-sidebar{
+    width: 240px;
+    opacity: 0.97;
 }
 
 main {
