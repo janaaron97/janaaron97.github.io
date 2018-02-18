@@ -42,6 +42,64 @@ $font-sans: "Helvetica Neue", 'Open Sans', Arial, Helvetica, sans-serif;
   display: none !important;
 }
 
+.btn-prime{
+    text-align: center;
+    display: block;
+    margin-top: 20px;
+    text-decoration: none !important;
+    background: #A12624;
+    color: #fff !important;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    transition: background 0.2s ease-in 0s;
+    &:hover{
+      background: #333 !important;
+    }
+}
+
+.story-lab{
+  max-width:80% !important;
+  p{
+    margin-top: 10px !important;
+  }
+  .icono{
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: -0.7em;
+    margin-top: 1em;
+    color: #A12624;
+  }
+  .learn-more{
+    background: #A12624;
+    color: #fff !important;
+    border-top: 50px solid #fff;
+    padding: 20px;
+    padding-top: 0 !important;
+    .values-title{
+      border-bottom: 4px solid #A12624 !important;
+      color: #A12624 !important;
+      font-size: 44px !important;
+      display: block !important;
+    }
+    a{
+      color: #fff !important;
+      text-decoration: none !important;
+      border-bottom: 5px solid #333;
+    }
+    p{
+      color: #fff !important;
+    }
+    h5{
+      margin-top: 45px !important;
+    }
+  }
+}
+
 header.ampstart-headerbar.fixed{
   background: #fff !important;
   padding: 5px;

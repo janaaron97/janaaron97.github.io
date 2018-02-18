@@ -5,7 +5,8 @@ cover: about.jpg
 ---
 
 <h1 style="text-align: center; text-transform: uppercase;">About Us</h1>
-Groundworks is a 501c3 that helps Inspire, resource, and advance great Ideas. We support people in their process of personal growth, and create workspace for transformative initiatives to accelerate. 
+Groundworks is a company that helps inspire, resource, and advance great Ideas. We support people in their process of personal growth, and create workspace for transformative initiatives to accelerate. We provide mentoring and coaching for individuals and
+companies globally.
 
 
 <img src="/assets/images/ken.jpg" style="margin-top: 60px; margin-bottom: 20px; width: 200px; display: block; margin-left: auto; margin-right: auto;">
@@ -20,4 +21,5 @@ At Groundworks, we have a history of supporting entrepreneurs by providing them 
 
 
 <img src="/assets/images/story-lab-logo.png" style="width: 200px; display: block; margin-left: auto; margin-right: auto;">
-Story Lab is a facilitated weekend event to help you author the story you want to live. At Story Lab, we help you discover how to create a vocation that is less about what you do, and more about who you are. Our vocation should be about creating a life - not just earning a living. Living with great intentionality creates vision. This workshop will help you begin to live your story and author your personal mission. 
+Story Lab is a facilitated weekend event to help you author the story you want to live. At Story Lab, we help you discover how to create a vocation that is less about what you do, and more about who you are. Our vocation should be about creating a life - not just earning a living. Living with great intentionality creates vision. This workshop will help you begin to live your story and author your personal mission.
+<a class="btn-prime" href="/story-lab">LEARN MORE</a>
