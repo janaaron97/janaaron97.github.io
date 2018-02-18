@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /story-lab/
-cover: our-story.jpg
+cover: values.jpg
 class: story-lab
 ---
 

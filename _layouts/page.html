@@ -2,7 +2,11 @@
 layout: default
 ---
 
+{% if page.class == 'story-lab' %}
+<div style="background-position: center; background-size: cover; padding: 14em; width: 100%; background-image: url(/assets/images/{{ page.cover }})"></div>
+{% else %}
 <div style="background-position: center; background-size: cover; padding: 10em; width: 100%; background-image: url(/assets/images/{{ page.cover }})"></div>
+{% endif %}
 <main class="content {{ page.class }}" role="main">
   <article class="post">
     <div class="post-meta">
