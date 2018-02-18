@@ -21,5 +21,4 @@ At Groundworks, we have a history of supporting entrepreneurs by providing them 
 
 
 <img src="/assets/images/story-lab-logo.png" style="width: 200px; display: block; margin-left: auto; margin-right: auto;">
-Story Lab is a facilitated weekend event to help you author the story you want to live. At Story Lab, we help you discover how to create a vocation that is less about what you do, and more about who you are. Our vocation should be about creating a life - not just earning a living. Living with great intentionality creates vision. This workshop will help you begin to live your story and author your personal mission.
-<a class="btn-prime" href="/story-lab">LEARN MORE</a>
+At Groundworks, we have developed Story Lab to help individuals author the story they want to live as missional people. We work to help people discover how to create a vocation that is less about what they do, and more about who they are. Story Lab is a facilitated weekend event to help inspire mission as a lifestyle. We believe that a vocation should be about creating a life - not just about earning a living. Living with great intentionality creates vision. This workshop helps its participants begin to live their story and author their personal mission.

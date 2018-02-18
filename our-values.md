@@ -1,18 +1,11 @@
 ---
 layout: page
-permalink: /story-lab/
+permalink: /our-values/
 cover: values.jpg
-class: story-lab
+class: our-values
 ---
 
-<p style="text-align: center;">At Groundworks, we have developed Story Lab to help individuals author the story they want to
-live as missional people. We work to help people discover how to create a vocation that is less
-about what they do, and more about who they are. Story Lab is a facilitated weekend event to
-help inspire mission as a lifestyle. We believe that a vocation should be about creating a life -
-not just about earning a living. Living with great intentionality creates vision. This workshop
-helps its participants begin to live their story and author their personal mission.</p>
-
-<h3 style="text-align: center;">Our <span style="border-bottom: 4px solid #A12624; color: #A12624; font-size: 44px; display: block;" class="values-title">VALUES</span></h3>
+<h3 style="margin-top: 0px !important; text-align: center;">Our <span style="border-bottom: 4px solid #A12624; color: #A12624; font-size: 44px; display: block;" class="values-title">VALUES</span></h3>
 
 <div class="row">
 <div class="col-md-6">

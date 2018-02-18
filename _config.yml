@@ -11,6 +11,7 @@ paginate:	5 # The number of posts to show per page on your homepage
 about: about
 contact: contact
 our-story: our story
+our-values: our-values
  
 
 permalink: /:title
