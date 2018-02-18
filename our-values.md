@@ -5,7 +5,7 @@ cover: values.jpg
 class: our-values
 ---
 
-<h3 style="margin-top: 0px !important; text-align: center;">Our Values</h3>
+<h2 style="margin-top: 0px !important; text-align: center;">Our Values</h2>
 
 <div class="row">
 <div class="col-md-12">

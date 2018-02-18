@@ -4,7 +4,7 @@ permalink: /our-story/
 cover: our-story.jpg
 ---
 
-<h1 style="text-align: center;">EVERYONE HAS A STORY. HERE'S OURS.</h1>
+<h2 style="text-align: center;">Everyone Has A Story. Here's Ours.</h2>
 
 <p>Groundworks was born from the work that began in Fair Haven in 2005, a neighborhood in New
 Haven, CT. It sprang from the work that founder, Ken Janke, had begun with neighbors working
