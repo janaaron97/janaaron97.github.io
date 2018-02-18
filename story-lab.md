@@ -12,7 +12,7 @@ help inspire mission as a lifestyle. We believe that a vocation should be about 
 not just about earning a living. Living with great intentionality creates vision. This workshop
 helps its participants begin to live their story and author their personal mission.</p>
 
-<h3 style="text-align: center;">Our <span class="values-title">VALUES</span></h3>
+<h3 style="text-align: center;">Our <span style="border-bottom: 4px solid #A12624; color: #A12624; font-size: 44px; display: block;" class="values-title">VALUES</span></h3>
 
 <div class="row">
 <div class="col-md-6">
