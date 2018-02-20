@@ -42,6 +42,7 @@ $font-sans: "Helvetica Neue", 'Open Sans', Arial, Helvetica, sans-serif;
   display: none !important;
 }
 
+
 .btn-prime{
     text-align: center;
     display: block;
@@ -119,6 +120,19 @@ header.ampstart-headerbar.fixed{
   .ampstart-fullpage-hero-heading.mb0.hanuman{
     line-height: 50px;
   }
+  footer {
+    .px1{
+      width: 100%;
+      margin-bottom: 10px;
+      text-align: center;
+    }
+    .ampstart-social-follow.list-reset{
+      margin-bottom: 0;
+    }
+  }
+  p{
+      font-size: 1.1rem !important;
+    }
 }
 
 #header-sidebar{
